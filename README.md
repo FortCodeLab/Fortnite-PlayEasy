@@ -2,7 +2,7 @@
 
 ![Visitors: 200K+](https://img.shields.io/badge/Visitors-200K+-ff9f43) ![Contributors: 150K+](https://i.ytimg.com/vi/ie5gPZEMyhI/maxresdefault.jpg) ![Last Updated: 2025](https://img.shields.io/badge/Last_Updated-2025-3498db)  
 
-![Fortnite Creative Banner](https://i.ytimg.com/vi/abc456/maxresdefault.jpg)  
+
 
 **Description**:  
 Unleash your creativity with **Fortnite PlayEasy** for Fortnite Creative Mode (Chapter 6, 2025)! This repository offers an open-source Python script designed to simplify building tasks in Fortnite’s custom worlds, helping players learn programming while enhancing gameplay. Perfect for beginners exploring Python or coders experimenting with game scripting, this beginner-friendly tool is customizable and backed by a community of 200K+ users and 150K+ contributors. With detailed guides, troubleshooting tips, and full compliance with Epic Games’ EULA, PlayEasy is your gateway to coding education in Fortnite’s Creative Mode!  
