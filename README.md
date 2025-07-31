@@ -41,11 +41,6 @@ This script is intended for Fortnite Creative Mode only and complies with Epic G
 
 ## 🎯 Usage Scenarios  
 
-- **Tutorial: Setting Up PlayEasy**  
-  - **Step 1: Launch Fortnite** - Open a Creative Mode world.  
-  - **Step 2: Configure Coordinates** - Edit `playeasy.py` to set your building coordinates.  
-  - **Step 3: Run Script** - Execute the script to automate building tasks.  
-  - **Step 4: Customize** - Adjust timing or actions for your custom world.  
 
 - 🏗 **Building Automation**: Simplify placing structures or editing builds.  
 - 🎨 **Creative Design**: Automate repetitive tasks to focus on world creation.  
